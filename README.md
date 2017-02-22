@@ -1,4 +1,4 @@
 # FirstTestApp
 For [DG] iOS May 15 Sample Project
 
-# ORIGINAL APP IS : https://github.com/awesomeEM/CoffeeLoyaltyApp #
+# ORIGINAL APP IS : https://github.com/EMUR/CoffeeLoyaltyApp #
